@@ -1,0 +1,460 @@
+$ git log -p piosenka.txt
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 9fd058f..23d8323 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,40 +2,12 @@ Let It Go (by James Bay)
+
+ zwrotka-1.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+:...skipping...
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 9fd058f..23d8323 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,40 +2,12 @@ Let It Go (by James Bay)
+
+ zwrotka-1.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-2.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-3.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Let the ashes fall
+-Forget about me
+-Come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
+\ No newline at end of file
++refren-2.txt
+:
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 9fd058f..23d8323 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,40 +2,12 @@ Let It Go (by James Bay)
+
+ zwrotka-1.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-2.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-3.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Let the ashes fall
+-Forget about me
+-Come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
+\ No newline at end of file
++refren-2.txt
+\ No newline at end of file
+:
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 9fd058f..23d8323 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,40 +2,12 @@ Let It Go (by James Bay)
+
+ zwrotka-1.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-2.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-3.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Let the ashes fall
+-Forget about me
+-Come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
+\ No newline at end of file
++refren-2.txt
+\ No newline at end of file
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 9fd058f..23d8323 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -2,40 +2,12 @@ Let It Go (by James Bay)
+
+ zwrotka-1.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-2.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
++refren-1.txt
+
+ zwrotka-3.txt
+
+-So come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-Everything that's broke
+-Leave it to the breeze
+-Let the ashes fall
+-Forget about me
+-Come on, let it go
+-Just let it be
+-Why don't you be you
+-And I'll be me?
+-And I'll be me
+\ No newline at end of file
++refren-2.txt
+\ No newline at end of file
+:
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+git log -p zwrotka-1.txt
+commit ee322549151a27758752ce325a4d43ba836b935b
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:33:55 2023 +0200
+
+    Zwrotka 1 przeniesiona do pliku zwrotka-1.txt
+
+diff --git a/zwrotka-1.txt b/zwrotka-1.txt
+new file mode 100644
+index 0000000..af2e54f
+--- /dev/null
++++ b/zwrotka-1.txt
+@@ -0,0 +1,8 @@
++From walking home and talking loads
++To seeing shows in evening clothes with you
++From nervous touch and getting drunk
++To staying up and waking up with you
++Now we're slipping near the edge
++Holding something we don't need
++All this delusion in our heads
++Is gonna bring us to our knees
+\ No newline at end of file
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log -p zwrotka-2.txt
+commit 9a8a5173518e4cf28e5c1a18b4a28f8a03a0f52b
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:44:41 2023 +0200
+
+    Stworzony plik z tekstem zwrotki 2
+
+diff --git a/zwrotka-2.txt b/zwrotka-2.txt
+new file mode 100644
+index 0000000..7a5ecf2
+--- /dev/null
++++ b/zwrotka-2.txt
+@@ -0,0 +1,8 @@
++From throwing clothes across the floor
++To teeth and claws and slamming doors at you
++If this is all we're living for
++Why are we doing it, doing it, doing it anymore?
++I used to recognize myself
++It's funny how reflections change
++When we're becoming something else
++I think it's time to walk away
+\ No newline at end of file
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log -p zwrotka-3.txt
+commit 4b8f93e000d6d67778198b3f1ff9afe4fd01413f
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:48:23 2023 +0200
+
+    Dodany plik zwrotka-3.txt z tekstem zwrtoki 3
+
+diff --git a/zwrotka-3.txt b/zwrotka-3.txt
+new file mode 100644
+index 0000000..e56ccd8
+--- /dev/null
++++ b/zwrotka-3.txt
+@@ -0,0 +1,7 @@
++Tryna fit your hand inside of mine
++When we know it just don't belong
++There's no force on earth
++Could make me feel right, no
++Tryna push this problem up the hill
++When it's just too heavy to hold
++Think now is the time to let it slide
+\ No newline at end of file
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log -p refren-1.txt
+commit f9959a9d0e17532a83bea62609e5db2539ae0636
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:54:06 2023 +0200
+
+    Dodany plik z tekstem refrenu nr 1
+
+diff --git a/refren-1.txt b/refren-1.txt
+new file mode 100644
+index 0000000..d39f671
+--- /dev/null
++++ b/refren-1.txt
+@@ -0,0 +1,9 @@
++So come on, let it go
++Just let it be
++Why don't you be you
++And I'll be me?
++Everything that's broke
++Leave it to the breeze
++Why don't you be you
++And I'll be me?
++And I'll be me
+\ No newline at end of file
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log -p refren-2.txt
+commit aaabd35c9fdec99d14f83f8421b34ba1798c61c6
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:24:31 2023 +0200
+
+    Usunięty plik refren-2.txt. Nazwa pliku refren-3.txt zmieniona na refren-2.txt
+
+diff --git a/refren-2.txt b/refren-2.txt
+index d39f671..48a4ab5 100644
+--- a/refren-2.txt
++++ b/refren-2.txt
+@@ -4,6 +4,10 @@ Why don't you be you
+ And I'll be me?
+ Everything that's broke
+ Leave it to the breeze
++Let the ashes fall
++Forget about me
++Come on, let it go
++Just let it be
+ Why don't you be you
+ And I'll be me?
+ And I'll be me
+\ No newline at end of file
+
+commit 5d31588aca69cedce2e1ce94429163cf5a7796b1
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:54:36 2023 +0200
+
+    Dodany plik z tekstem refreny nr 2
+
+diff --git a/refren-2.txt b/refren-2.txt
+new file mode 100644
+index 0000000..d39f671
+--- /dev/null
++++ b/refren-2.txt
+@@ -0,0 +1,9 @@
++So come on, let it go
++Just let it be
++Why don't you be you
++And I'll be me?
++Everything that's broke
++Leave it to the breeze
++Why don't you be you
++And I'll be me?
++And I'll be me
+\ No newline at end of file
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log -p refren-3.txt
+fatal: ambiguous argument 'refren-3.txt': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+Jacek@DESKTOP-QEEGPLS MINGW64 /f/04_Szkolenia/Python/FutureCollars/Prework_GIT (master)
+$ git log
+commit d9ead7e7ea88db27bdfa3c3700ccb7247e0b0703 (HEAD -> master)
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:25:25 2023 +0200
+
+    Usunięte refreny i zastąpione nazwami plików, do których zostały przeniesione
+
+commit aaabd35c9fdec99d14f83f8421b34ba1798c61c6
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:24:31 2023 +0200
+
+    Usunięty plik refren-2.txt. Nazwa pliku refren-3.txt zmieniona na refren-2.txt
+
+commit e831db7967fdbff887cb3d373bd89c3e12567d8a
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 21:03:01 2023 +0200
+
+    Revert "Z pliku 'piosenka.txt' usunięta jedna linia refrenu"
+
+    This reverts commit 0410b53f566b08ca599e6e17ab28a9ffad5ac0f7.
+
+commit 0410b53f566b08ca599e6e17ab28a9ffad5ac0f7
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:56:45 2023 +0200
+
+    Z pliku 'piosenka.txt' usunięta jedna linia refrenu
+
+commit cf337a0138661df4d3a2524b25a3ba9557c6c4ca
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:55:04 2023 +0200
+
+    Dodany plik z tekstem refrenu nr 3
+
+commit 5d31588aca69cedce2e1ce94429163cf5a7796b1
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:54:36 2023 +0200
+
+    Dodany plik z tekstem refreny nr 2
+
+commit f9959a9d0e17532a83bea62609e5db2539ae0636
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:54:06 2023 +0200
+
+    Dodany plik z tekstem refrenu nr 1
+
+commit 3dee894de1c43fb3eba757062a232429fdefd2c5
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:50:27 2023 +0200
+
+    Tekst zwrotki 3 przeniesiony do pliku zwrotka-3.txt i zastąpiony nazwą pliku
+
+commit 4b8f93e000d6d67778198b3f1ff9afe4fd01413f
+Author: Gr4bson <gr4bson@gmail.com>
+Date:   Sun May 21 20:48:23 2023 +0200
+
+    Dodany plik zwrotka-3.txt z tekstem zwrtoki 3
+
+:
